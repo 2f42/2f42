@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**baconsenpaii/baconsenpaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
 
-Here are some ideas to get you started:
+	dl dd {
+		margin: 0;
+		padding: 0;
+	}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	dt:before {
+		content: "Q: ";
+		width: 2em;
+	}
+
+	dd:before {
+		content: "A: ";
+		width: 2em;
+	}
+
+</style>
+
+
+### Hello! 👋
+
+<dl>
+	<dt>Who are you?</dt>
+	<dd>I am Nathan Patel, an undergraduate Computer Science student at the University of Bristol.</dd>
+	<dt>What do you do?</dt>
+	<dd>Not much.<br />No, really.</dd>
+</dl>
