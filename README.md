@@ -1,24 +1,3 @@
-
-<style>
-
-	dl dd {
-		margin: 0;
-		padding: 0;
-	}
-
-	dt:before {
-		content: "Q: ";
-		width: 2em;
-	}
-
-	dd:before {
-		content: "A: ";
-		width: 2em;
-	}
-
-</style>
-
-
 ### Hello! 👋
 
 <dl>
