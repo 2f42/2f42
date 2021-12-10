@@ -7,7 +7,8 @@
     <dd>
         Lately I've been working on <a href="https://github.com/baconsenpaii/super-lobster">Super Lobster</a>,
         an unholy love child of <a href="https://en.wikipedia.org/wiki/Befunge">Befunge</a>
-        and <a href="https://www.dangermouse.net/esoteric/piet.html">Piet</a>.
+        and <a href="https://www.dangermouse.net/esoteric/piet.html">Piet</a>.<br />
+        I'm also doing <a href="https://adventofcode.com/2021">Advent of Code</a> this year. You can see how I solved the problems at <a href="https://github.com/baconsenpaii/adventofcode2021">this repo.</a>
     </dd>
     <dt>What's the coolest thing you've made?</dt>
     <dd>
