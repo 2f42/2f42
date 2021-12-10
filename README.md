@@ -10,4 +10,8 @@
 	<dt>What's the coolest thing you've made?</dt>
 	<dd>Probably <a href="https://github.com/baconsenpaii/first-4kb-demo">this 4KB raytracer I made over a month</a>.
 	It wasn't the first time I made a raytracer, but it was the first time I tried making a 4KB demo.</dd>
+	<dt>What languages do you use?</dt>
+	<dd>For personal projects? I like Python and C.<br />
+		For game jams? Mostly C# and JavaScript.<br />
+		For uni work? A lot of Java, with bits of Haskell, C and Go thrown in too.<br />
 </dl>
