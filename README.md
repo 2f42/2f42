@@ -11,7 +11,7 @@
     </dd>
     <dt>What's the coolest thing you've made?</dt>
     <dd>
-        Probably <a href="https://github.com/baconsenpaii/first-4kb-demo">this 4KB raytracer I made over a month</a>.
+        Probably <a href="https://github.com/baconsenpaii/first-4kb-demo">this 4KB raytracer</a>.
         It wasn't the first time I made a raytracer, but it was the first time I tried making a 4KB demo.
     </dd>
     <dt>What languages do you use?</dt>
