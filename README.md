@@ -21,3 +21,5 @@
         For uni work? A lot of Java, with bits of Haskell, C and Go thrown in too
     </dd>
 </dl>
+
+### ☄️ 🧅
