@@ -12,10 +12,7 @@
         <a href="https://github.com/2f42/first-4kb-demo">2f42/first-4kb-demo</a> &mdash;
         a raytracer that compiles to under 4KB<br />
         <a href="https://github.com/2f42/the-cooler-minesweeper">2f42/the-cooler-minesweeper</a> &mdash;
-        a web based minesweeper client with some quality of life features<br />
-        <a href="https://github.com/2f42/super-lobster">2f42/super-lobster</a> &mdash; Super Lobster,
-        an (unfinished) unholy love child of <a href="https://en.wikipedia.org/wiki/Befunge">Befunge</a>
-        and <a href="https://www.dangermouse.net/esoteric/piet.html">Piet</a>
+        a web based minesweeper client with some quality of life features
     </dd>
     <dt>What languages do you use?</dt>
     <dd>
