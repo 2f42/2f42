@@ -16,7 +16,7 @@
     </dd>
     <dt>What languages do you use?</dt>
     <dd>
-        For personal projects? I like Python and C<br />
+        For personal projects? I like Python, C and Clojure<br />
         For game jams? Mostly C# and JavaScript<br />
         For uni work? A lot of Java, with bits of Haskell, C and Go thrown in too
     </dd>
