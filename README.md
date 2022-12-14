@@ -5,7 +5,7 @@
     <dd>I am Nathan Patel, a Computer Science undergrad at the University of Bristol.</dd>
     <dt>What are you currently working on?</dt>
     <dd>
-        <a href="https://github.com/2f42/2f42.github.io">2f42/2f42.github.io</a> &mdash; my website &mdash; <a href="https://2f42.dev">2f42.dev</a>
+        <a href="https://github.com/2f42/2f42.github.io">2f42/2f42.github.io</a> &mdash; my website &mdash; <a href="https://2f42.dev">2f42.dev</a><br />
         <a href="https://github.com/2f42/aoc2022">2f42/aoc2022</a> &mdash; my solutions to <a href="https://adventofcode.com/2022/">Advent of Code 2022</a>
     </dd>
     <dt>What are some cool things you've made?</dt>
