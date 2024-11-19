@@ -2,12 +2,7 @@
 
 <dl>
     <dt>Who are you?</dt>
-    <dd>I am Nathan Patel, a Computer Science graduate.</dd>
-    <dd>Things may be looking sparse right now, but I'm currently restructuring a few things!</dd>
-    <dt>What are you currently working on?</dt>
-    <dd>
-        <a href="https://github.com/2f42/2f42.github.io">2f42/2f42.github.io</a> &mdash; my website &mdash; <a href="https://2f42.dev">2f42.dev</a><br />
-    </dd>
+    <dd>I am Nathan Patel, a Computer Science graduate (currently looking for work).</dd>
     <dt>What are some cool things you've made?</dt>
     <dd>
         <a href="https://github.com/2f42/first-4kb-demo">2f42/first-4kb-demo</a> &mdash;
@@ -17,7 +12,7 @@
     </dd>
     <dt>What languages do you use?</dt>
     <dd>
-        For personal projects? I like Python, C and Clojure<br />
+        For personal projects? I like Python and C, occasionally JavaScript (or TypeScript).<br />
         For game jams? Mostly C# and JavaScript<br />
         For uni work? A lot of Java, with bits of Haskell, C and Go thrown in too
     </dd>
