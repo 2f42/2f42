@@ -1,8 +1,8 @@
-### Hello! 👋
+### Hello!
 
 <dl>
     <dt>Who are you?</dt>
-    <dd>I am Nathan Patel, a Computer Science graduate (currently looking for work).</dd>
+    <dd>I am Nathan Patel, a trainee maths teacher with a BSc in Computer Science.</dd>
     <dt>What are some cool things you've made?</dt>
     <dd>
         <a href="https://github.com/2f42/first-4kb-demo">2f42/first-4kb-demo</a> &mdash;
